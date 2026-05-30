@@ -1,2 +1,2 @@
 this file has test text
-second line and more
+second line and more info
