@@ -1,4 +1,4 @@
-this file has test text111
-this file has test text ...
+this file has test text 1
+this file has test text 2
 second line and more info
 new branch line
